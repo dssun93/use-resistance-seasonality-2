@@ -1,0 +1,67 @@
+organism,drug_code,demographic_type,p.value,p.value.BH,significance,demographic_group,mean_MIC,sem
+E. coli,"AMP
+(Penicillin)",Age group,2.9999999999999998e-61,6.2e-61,***,00-19,3.1,0.021
+E. coli,"AMP
+(Penicillin)",Age group,2.9999999999999998e-61,6.2e-61,***,20-39,3,0.01
+E. coli,"AMP
+(Penicillin)",Age group,2.9999999999999998e-61,6.2e-61,***,40-64,3.2,0.0089
+E. coli,"AMP
+(Penicillin)",Age group,2.9999999999999998e-61,6.2e-61,***,65+,3.2,0.0079
+E. coli,"AMP
+(Penicillin)",Sex,8.899999999999996e-193,3.3999999999999985e-192,***,F,3.1,0.0055
+E. coli,"AMP
+(Penicillin)",Sex,8.899999999999996e-193,3.3999999999999985e-192,***,M,3.5,0.012
+E. coli,"AMP
+(Penicillin)",Site of infection,1.6e-95,3.8999999999999995e-95,***,AB,3.3,0.04
+E. coli,"AMP
+(Penicillin)",Site of infection,1.6e-95,3.8999999999999995e-95,***,BL,3.5,0.036
+E. coli,"AMP
+(Penicillin)",Site of infection,1.6e-95,3.8999999999999995e-95,***,RT,3.8,0.034
+E. coli,"AMP
+(Penicillin)",Site of infection,1.6e-95,3.8999999999999995e-95,***,SST,3.3,0.031
+E. coli,"AMP
+(Penicillin)",Site of infection,1.6e-95,3.8999999999999995e-95,***,UT,3.1,0.0052
+E. coli,"CIP
+(Quinolone)",Age group,0,0,***,00-19,-1.7,0.012
+E. coli,"CIP
+(Quinolone)",Age group,0,0,***,20-39,-1.5,0.0072
+E. coli,"CIP
+(Quinolone)",Age group,0,0,***,40-64,-1.1,0.0081
+E. coli,"CIP
+(Quinolone)",Age group,0,0,***,65+,-0.73,0.0082
+E. coli,"CIP
+(Quinolone)",Sex,0,0,***,F,-1.2,0.0047
+E. coli,"CIP
+(Quinolone)",Sex,0,0,***,M,-0.44,0.013
+E. coli,"CIP
+(Quinolone)",Site of infection,3.5e-323,1.9e-322,***,AB,-0.8,0.041
+E. coli,"CIP
+(Quinolone)",Site of infection,3.5e-323,1.9e-322,***,BL,-0.39,0.039
+E. coli,"CIP
+(Quinolone)",Site of infection,3.5e-323,1.9e-322,***,RT,-0.1,0.038
+E. coli,"CIP
+(Quinolone)",Site of infection,3.5e-323,1.9e-322,***,SST,-0.77,0.031
+E. coli,"CIP
+(Quinolone)",Site of infection,3.5e-323,1.9e-322,***,UT,-1.1,0.0047
+E. coli,"NIT
+(Nitrofuran)",Age group,2.5e-6,3.1e-6,***,00-19,4.2,0.0064
+E. coli,"NIT
+(Nitrofuran)",Age group,2.5e-6,3.1e-6,***,20-39,4.2,0.0037
+E. coli,"NIT
+(Nitrofuran)",Age group,2.5e-6,3.1e-6,***,40-64,4.3,0.0036
+E. coli,"NIT
+(Nitrofuran)",Age group,2.5e-6,3.1e-6,***,65+,4.3,0.0036
+E. coli,"NIT
+(Nitrofuran)",Sex,0.014,0.015,*,F,4.3,0.0022
+E. coli,"NIT
+(Nitrofuran)",Sex,0.014,0.015,*,M,4.3,0.0059
+E. coli,"NIT
+(Nitrofuran)",Site of infection,3e-7,3.9e-7,***,AB,4.2,0.015
+E. coli,"NIT
+(Nitrofuran)",Site of infection,3e-7,3.9e-7,***,BL,4.2,0.015
+E. coli,"NIT
+(Nitrofuran)",Site of infection,3e-7,3.9e-7,***,RT,4.2,0.014
+E. coli,"NIT
+(Nitrofuran)",Site of infection,3e-7,3.9e-7,***,SST,4.2,0.013
+E. coli,"NIT
+(Nitrofuran)",Site of infection,3e-7,3.9e-7,***,UT,4.3,0.0021

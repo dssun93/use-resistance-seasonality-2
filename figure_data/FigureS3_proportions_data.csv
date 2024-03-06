@@ -1,0 +1,133 @@
+organism,demographic_type,demographic_group,month,proportion
+K. pneumoniae,Age group,00-19,1,0.025
+K. pneumoniae,Age group,00-19,2,0.031
+K. pneumoniae,Age group,00-19,3,0.027
+K. pneumoniae,Age group,00-19,4,0.021
+K. pneumoniae,Age group,00-19,5,0.024
+K. pneumoniae,Age group,00-19,6,0.024
+K. pneumoniae,Age group,00-19,7,0.027
+K. pneumoniae,Age group,00-19,8,0.023
+K. pneumoniae,Age group,00-19,9,0.03
+K. pneumoniae,Age group,00-19,10,0.023
+K. pneumoniae,Age group,00-19,11,0.03
+K. pneumoniae,Age group,00-19,12,0.026
+K. pneumoniae,Age group,20-39,1,0.12
+K. pneumoniae,Age group,20-39,2,0.1
+K. pneumoniae,Age group,20-39,3,0.11
+K. pneumoniae,Age group,20-39,4,0.11
+K. pneumoniae,Age group,20-39,5,0.12
+K. pneumoniae,Age group,20-39,6,0.11
+K. pneumoniae,Age group,20-39,7,0.11
+K. pneumoniae,Age group,20-39,8,0.11
+K. pneumoniae,Age group,20-39,9,0.11
+K. pneumoniae,Age group,20-39,10,0.1
+K. pneumoniae,Age group,20-39,11,0.12
+K. pneumoniae,Age group,20-39,12,0.11
+K. pneumoniae,Age group,40-64,1,0.31
+K. pneumoniae,Age group,40-64,2,0.34
+K. pneumoniae,Age group,40-64,3,0.34
+K. pneumoniae,Age group,40-64,4,0.33
+K. pneumoniae,Age group,40-64,5,0.34
+K. pneumoniae,Age group,40-64,6,0.34
+K. pneumoniae,Age group,40-64,7,0.34
+K. pneumoniae,Age group,40-64,8,0.34
+K. pneumoniae,Age group,40-64,9,0.32
+K. pneumoniae,Age group,40-64,10,0.32
+K. pneumoniae,Age group,40-64,11,0.32
+K. pneumoniae,Age group,40-64,12,0.33
+K. pneumoniae,Age group,65+,1,0.54
+K. pneumoniae,Age group,65+,2,0.53
+K. pneumoniae,Age group,65+,3,0.53
+K. pneumoniae,Age group,65+,4,0.54
+K. pneumoniae,Age group,65+,5,0.52
+K. pneumoniae,Age group,65+,6,0.53
+K. pneumoniae,Age group,65+,7,0.53
+K. pneumoniae,Age group,65+,8,0.52
+K. pneumoniae,Age group,65+,9,0.54
+K. pneumoniae,Age group,65+,10,0.55
+K. pneumoniae,Age group,65+,11,0.54
+K. pneumoniae,Age group,65+,12,0.53
+K. pneumoniae,Sex,F,1,0.68
+K. pneumoniae,Sex,F,2,0.68
+K. pneumoniae,Sex,F,3,0.68
+K. pneumoniae,Sex,F,4,0.69
+K. pneumoniae,Sex,F,5,0.7
+K. pneumoniae,Sex,F,6,0.71
+K. pneumoniae,Sex,F,7,0.7
+K. pneumoniae,Sex,F,8,0.68
+K. pneumoniae,Sex,F,9,0.71
+K. pneumoniae,Sex,F,10,0.7
+K. pneumoniae,Sex,F,11,0.68
+K. pneumoniae,Sex,F,12,0.7
+K. pneumoniae,Sex,M,1,0.32
+K. pneumoniae,Sex,M,2,0.32
+K. pneumoniae,Sex,M,3,0.32
+K. pneumoniae,Sex,M,4,0.31
+K. pneumoniae,Sex,M,5,0.3
+K. pneumoniae,Sex,M,6,0.29
+K. pneumoniae,Sex,M,7,0.3
+K. pneumoniae,Sex,M,8,0.32
+K. pneumoniae,Sex,M,9,0.29
+K. pneumoniae,Sex,M,10,0.3
+K. pneumoniae,Sex,M,11,0.32
+K. pneumoniae,Sex,M,12,0.3
+K. pneumoniae,Site of infection,AB,1,0.027
+K. pneumoniae,Site of infection,AB,2,0.034
+K. pneumoniae,Site of infection,AB,3,0.025
+K. pneumoniae,Site of infection,AB,4,0.033
+K. pneumoniae,Site of infection,AB,5,0.032
+K. pneumoniae,Site of infection,AB,6,0.033
+K. pneumoniae,Site of infection,AB,7,0.029
+K. pneumoniae,Site of infection,AB,8,0.031
+K. pneumoniae,Site of infection,AB,9,0.024
+K. pneumoniae,Site of infection,AB,10,0.028
+K. pneumoniae,Site of infection,AB,11,0.032
+K. pneumoniae,Site of infection,AB,12,0.031
+K. pneumoniae,Site of infection,BL,1,0.06
+K. pneumoniae,Site of infection,BL,2,0.047
+K. pneumoniae,Site of infection,BL,3,0.049
+K. pneumoniae,Site of infection,BL,4,0.052
+K. pneumoniae,Site of infection,BL,5,0.056
+K. pneumoniae,Site of infection,BL,6,0.048
+K. pneumoniae,Site of infection,BL,7,0.047
+K. pneumoniae,Site of infection,BL,8,0.055
+K. pneumoniae,Site of infection,BL,9,0.053
+K. pneumoniae,Site of infection,BL,10,0.053
+K. pneumoniae,Site of infection,BL,11,0.06
+K. pneumoniae,Site of infection,BL,12,0.047
+K. pneumoniae,Site of infection,RT,1,0.11
+K. pneumoniae,Site of infection,RT,2,0.11
+K. pneumoniae,Site of infection,RT,3,0.12
+K. pneumoniae,Site of infection,RT,4,0.12
+K. pneumoniae,Site of infection,RT,5,0.1
+K. pneumoniae,Site of infection,RT,6,0.095
+K. pneumoniae,Site of infection,RT,7,0.1
+K. pneumoniae,Site of infection,RT,8,0.11
+K. pneumoniae,Site of infection,RT,9,0.094
+K. pneumoniae,Site of infection,RT,10,0.1
+K. pneumoniae,Site of infection,RT,11,0.1
+K. pneumoniae,Site of infection,RT,12,0.11
+K. pneumoniae,Site of infection,SST,1,0.045
+K. pneumoniae,Site of infection,SST,2,0.043
+K. pneumoniae,Site of infection,SST,3,0.047
+K. pneumoniae,Site of infection,SST,4,0.055
+K. pneumoniae,Site of infection,SST,5,0.043
+K. pneumoniae,Site of infection,SST,6,0.048
+K. pneumoniae,Site of infection,SST,7,0.056
+K. pneumoniae,Site of infection,SST,8,0.058
+K. pneumoniae,Site of infection,SST,9,0.047
+K. pneumoniae,Site of infection,SST,10,0.044
+K. pneumoniae,Site of infection,SST,11,0.047
+K. pneumoniae,Site of infection,SST,12,0.046
+K. pneumoniae,Site of infection,UT,1,0.76
+K. pneumoniae,Site of infection,UT,2,0.77
+K. pneumoniae,Site of infection,UT,3,0.76
+K. pneumoniae,Site of infection,UT,4,0.74
+K. pneumoniae,Site of infection,UT,5,0.77
+K. pneumoniae,Site of infection,UT,6,0.78
+K. pneumoniae,Site of infection,UT,7,0.77
+K. pneumoniae,Site of infection,UT,8,0.75
+K. pneumoniae,Site of infection,UT,9,0.78
+K. pneumoniae,Site of infection,UT,10,0.77
+K. pneumoniae,Site of infection,UT,11,0.76
+K. pneumoniae,Site of infection,UT,12,0.77

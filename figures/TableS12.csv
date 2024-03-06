@@ -1,0 +1,10 @@
+organism,drug_name,26-week period,52-week period
+E. coli,Ampicillin,520926.6 (+0),520928 (+1.4)
+E. coli,Ciprofloxacin,496756.2 (+9.4),496746.8 (+0)
+E. coli,Nitrofurantoin,199351.7 (+21.9),199329.9 (+0)
+K. pneumoniae,Ciprofloxacin,89442.3 (+12.7),89429.7 (+0)
+K. pneumoniae,Nitrofurantoin,66777 (+5.8),66771.1 (+0)
+S. aureus,Ciprofloxacin,189237 (+22),189215 (+0)
+S. aureus,Erythromycin,215797.9 (+8),215789.9 (+0)
+S. aureus,Nitrofurantoin,52355 (+7.5),52347.5 (+0)
+S. aureus,Oxacillin,182606.4 (+7.6),182598.7 (+0)

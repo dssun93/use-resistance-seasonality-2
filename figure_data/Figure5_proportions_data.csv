@@ -1,0 +1,133 @@
+organism,demographic_type,demographic_group,month,proportion
+S. aureus,Age group,00-19,1,0.094
+S. aureus,Age group,00-19,2,0.079
+S. aureus,Age group,00-19,3,0.087
+S. aureus,Age group,00-19,4,0.085
+S. aureus,Age group,00-19,5,0.096
+S. aureus,Age group,00-19,6,0.089
+S. aureus,Age group,00-19,7,0.11
+S. aureus,Age group,00-19,8,0.11
+S. aureus,Age group,00-19,9,0.11
+S. aureus,Age group,00-19,10,0.094
+S. aureus,Age group,00-19,11,0.094
+S. aureus,Age group,00-19,12,0.088
+S. aureus,Age group,20-39,1,0.21
+S. aureus,Age group,20-39,2,0.22
+S. aureus,Age group,20-39,3,0.21
+S. aureus,Age group,20-39,4,0.22
+S. aureus,Age group,20-39,5,0.21
+S. aureus,Age group,20-39,6,0.23
+S. aureus,Age group,20-39,7,0.23
+S. aureus,Age group,20-39,8,0.24
+S. aureus,Age group,20-39,9,0.22
+S. aureus,Age group,20-39,10,0.22
+S. aureus,Age group,20-39,11,0.22
+S. aureus,Age group,20-39,12,0.22
+S. aureus,Age group,40-64,1,0.35
+S. aureus,Age group,40-64,2,0.37
+S. aureus,Age group,40-64,3,0.36
+S. aureus,Age group,40-64,4,0.36
+S. aureus,Age group,40-64,5,0.37
+S. aureus,Age group,40-64,6,0.36
+S. aureus,Age group,40-64,7,0.36
+S. aureus,Age group,40-64,8,0.36
+S. aureus,Age group,40-64,9,0.37
+S. aureus,Age group,40-64,10,0.36
+S. aureus,Age group,40-64,11,0.38
+S. aureus,Age group,40-64,12,0.37
+S. aureus,Age group,65+,1,0.35
+S. aureus,Age group,65+,2,0.33
+S. aureus,Age group,65+,3,0.33
+S. aureus,Age group,65+,4,0.33
+S. aureus,Age group,65+,5,0.33
+S. aureus,Age group,65+,6,0.32
+S. aureus,Age group,65+,7,0.31
+S. aureus,Age group,65+,8,0.29
+S. aureus,Age group,65+,9,0.3
+S. aureus,Age group,65+,10,0.32
+S. aureus,Age group,65+,11,0.31
+S. aureus,Age group,65+,12,0.32
+S. aureus,Sex,F,1,0.45
+S. aureus,Sex,F,2,0.47
+S. aureus,Sex,F,3,0.44
+S. aureus,Sex,F,4,0.46
+S. aureus,Sex,F,5,0.44
+S. aureus,Sex,F,6,0.46
+S. aureus,Sex,F,7,0.45
+S. aureus,Sex,F,8,0.46
+S. aureus,Sex,F,9,0.46
+S. aureus,Sex,F,10,0.47
+S. aureus,Sex,F,11,0.45
+S. aureus,Sex,F,12,0.46
+S. aureus,Sex,M,1,0.55
+S. aureus,Sex,M,2,0.53
+S. aureus,Sex,M,3,0.56
+S. aureus,Sex,M,4,0.54
+S. aureus,Sex,M,5,0.56
+S. aureus,Sex,M,6,0.54
+S. aureus,Sex,M,7,0.55
+S. aureus,Sex,M,8,0.54
+S. aureus,Sex,M,9,0.54
+S. aureus,Sex,M,10,0.53
+S. aureus,Sex,M,11,0.55
+S. aureus,Sex,M,12,0.54
+S. aureus,Site of infection,AB,1,0.1
+S. aureus,Site of infection,AB,2,0.1
+S. aureus,Site of infection,AB,3,0.095
+S. aureus,Site of infection,AB,4,0.11
+S. aureus,Site of infection,AB,5,0.1
+S. aureus,Site of infection,AB,6,0.11
+S. aureus,Site of infection,AB,7,0.12
+S. aureus,Site of infection,AB,8,0.11
+S. aureus,Site of infection,AB,9,0.12
+S. aureus,Site of infection,AB,10,0.12
+S. aureus,Site of infection,AB,11,0.11
+S. aureus,Site of infection,AB,12,0.11
+S. aureus,Site of infection,BL,1,0.061
+S. aureus,Site of infection,BL,2,0.063
+S. aureus,Site of infection,BL,3,0.059
+S. aureus,Site of infection,BL,4,0.055
+S. aureus,Site of infection,BL,5,0.059
+S. aureus,Site of infection,BL,6,0.058
+S. aureus,Site of infection,BL,7,0.057
+S. aureus,Site of infection,BL,8,0.058
+S. aureus,Site of infection,BL,9,0.057
+S. aureus,Site of infection,BL,10,0.058
+S. aureus,Site of infection,BL,11,0.063
+S. aureus,Site of infection,BL,12,0.064
+S. aureus,Site of infection,RT,1,0.29
+S. aureus,Site of infection,RT,2,0.26
+S. aureus,Site of infection,RT,3,0.27
+S. aureus,Site of infection,RT,4,0.26
+S. aureus,Site of infection,RT,5,0.25
+S. aureus,Site of infection,RT,6,0.23
+S. aureus,Site of infection,RT,7,0.23
+S. aureus,Site of infection,RT,8,0.21
+S. aureus,Site of infection,RT,9,0.22
+S. aureus,Site of infection,RT,10,0.23
+S. aureus,Site of infection,RT,11,0.25
+S. aureus,Site of infection,RT,12,0.25
+S. aureus,Site of infection,SST,1,0.46
+S. aureus,Site of infection,SST,2,0.47
+S. aureus,Site of infection,SST,3,0.49
+S. aureus,Site of infection,SST,4,0.5
+S. aureus,Site of infection,SST,5,0.49
+S. aureus,Site of infection,SST,6,0.52
+S. aureus,Site of infection,SST,7,0.52
+S. aureus,Site of infection,SST,8,0.54
+S. aureus,Site of infection,SST,9,0.53
+S. aureus,Site of infection,SST,10,0.51
+S. aureus,Site of infection,SST,11,0.51
+S. aureus,Site of infection,SST,12,0.49
+S. aureus,Site of infection,UT,1,0.086
+S. aureus,Site of infection,UT,2,0.098
+S. aureus,Site of infection,UT,3,0.085
+S. aureus,Site of infection,UT,4,0.084
+S. aureus,Site of infection,UT,5,0.1
+S. aureus,Site of infection,UT,6,0.085
+S. aureus,Site of infection,UT,7,0.08
+S. aureus,Site of infection,UT,8,0.077
+S. aureus,Site of infection,UT,9,0.078
+S. aureus,Site of infection,UT,10,0.077
+S. aureus,Site of infection,UT,11,0.075
+S. aureus,Site of infection,UT,12,0.086

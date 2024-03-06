@@ -1,0 +1,10 @@
+org_drug,drug_class,res_amplitude,res_phase,res_omega,res_upper,res_lower,use_amplitude,use_phase,use_omega,use_upper,use_lower
+E. coli / AMP,Penicillins,0.041,11,0.12,0.063,0.019,0.75,7.6,0.12,0.82,0.67
+E. coli / CIP,Quinolones,0.053,12,0.12,0.073,0.033,0.049,3,0.24,0.067,0.031
+E. coli / NIT,Nitrofurans,0.027,9.2,0.12,0.035,0.019,0.033,37,0.12,0.043,0.022
+K. pneumoniae / CIP,Quinolones,0.055,8.6,0.12,0.085,0.024,0.049,3,0.24,0.067,0.031
+K. pneumoniae / NIT,Nitrofurans,0.032,51,0.12,0.056,0.0085,0.033,37,0.12,0.043,0.022
+S. aureus / CIP,Quinolones,0.067,6.7,0.12,0.097,0.036,0.049,3,0.24,0.067,0.031
+S. aureus / ERY,Macrolides,0.052,5,0.12,0.089,0.015,0.47,5.2,0.12,0.53,0.41
+S. aureus / NIT,Nitrofurans,0.031,6.6,0.12,0.041,0.021,0.033,37,0.12,0.043,0.022
+S. aureus / OXA,Penicillins,0.032,2.8,0.12,0.055,0.0088,0.75,7.6,0.12,0.82,0.67

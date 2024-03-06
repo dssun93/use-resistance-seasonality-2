@@ -1,0 +1,45 @@
+organism,drug_code,demographic_type,p.value,p.value.BH,significance,demographic_group,mean_MIC,sem
+K. pneumoniae,"CIP
+(Quinolone)",Age group,4.9e-32,8.9e-32,***,00-19,-1.8,0.03
+K. pneumoniae,"CIP
+(Quinolone)",Age group,4.9e-32,8.9e-32,***,20-39,-1.6,0.02
+K. pneumoniae,"CIP
+(Quinolone)",Age group,4.9e-32,8.9e-32,***,40-64,-1.4,0.014
+K. pneumoniae,"CIP
+(Quinolone)",Age group,4.9e-32,8.9e-32,***,65+,-1.5,0.01
+K. pneumoniae,"CIP
+(Quinolone)",Sex,6.399999999999998e-151,1.8999999999999996e-150,***,F,-1.6,0.008
+K. pneumoniae,"CIP
+(Quinolone)",Sex,6.399999999999998e-151,1.8999999999999996e-150,***,M,-1.2,0.017
+K. pneumoniae,"CIP
+(Quinolone)",Site of infection,1.5999999999999997e-63,3.5999999999999995e-63,***,AB,-1.4,0.049
+K. pneumoniae,"CIP
+(Quinolone)",Site of infection,1.5999999999999997e-63,3.5999999999999995e-63,***,BL,-1.3,0.039
+K. pneumoniae,"CIP
+(Quinolone)",Site of infection,1.5999999999999997e-63,3.5999999999999995e-63,***,RT,-1.1,0.03
+K. pneumoniae,"CIP
+(Quinolone)",Site of infection,1.5999999999999997e-63,3.5999999999999995e-63,***,SST,-1.5,0.036
+K. pneumoniae,"CIP
+(Quinolone)",Site of infection,1.5999999999999997e-63,3.5999999999999995e-63,***,UT,-1.5,0.0083
+K. pneumoniae,"NIT
+(Nitrofuran)",Age group,4.5e-17,6.7e-17,***,00-19,5.6,0.038
+K. pneumoniae,"NIT
+(Nitrofuran)",Age group,4.5e-17,6.7e-17,***,20-39,6,0.023
+K. pneumoniae,"NIT
+(Nitrofuran)",Age group,4.5e-17,6.7e-17,***,40-64,6,0.015
+K. pneumoniae,"NIT
+(Nitrofuran)",Age group,4.5e-17,6.7e-17,***,65+,5.9,0.012
+K. pneumoniae,"NIT
+(Nitrofuran)",Sex,5.600000000000001e-23,8.9e-23,***,F,5.9,0.0096
+K. pneumoniae,"NIT
+(Nitrofuran)",Sex,5.600000000000001e-23,8.9e-23,***,M,6.1,0.016
+K. pneumoniae,"NIT
+(Nitrofuran)",Site of infection,8.6e-10,1.2e-9,***,AB,6,0.054
+K. pneumoniae,"NIT
+(Nitrofuran)",Site of infection,8.6e-10,1.2e-9,***,BL,6,0.04
+K. pneumoniae,"NIT
+(Nitrofuran)",Site of infection,8.6e-10,1.2e-9,***,RT,6.1,0.028
+K. pneumoniae,"NIT
+(Nitrofuran)",Site of infection,8.6e-10,1.2e-9,***,SST,6,0.04
+K. pneumoniae,"NIT
+(Nitrofuran)",Site of infection,8.6e-10,1.2e-9,***,UT,5.9,0.0093

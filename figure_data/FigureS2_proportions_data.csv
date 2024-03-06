@@ -1,0 +1,133 @@
+organism,demographic_type,demographic_group,month,proportion
+E. coli,Age group,00-19,1,0.065
+E. coli,Age group,00-19,2,0.067
+E. coli,Age group,00-19,3,0.061
+E. coli,Age group,00-19,4,0.06
+E. coli,Age group,00-19,5,0.056
+E. coli,Age group,00-19,6,0.057
+E. coli,Age group,00-19,7,0.054
+E. coli,Age group,00-19,8,0.054
+E. coli,Age group,00-19,9,0.055
+E. coli,Age group,00-19,10,0.057
+E. coli,Age group,00-19,11,0.061
+E. coli,Age group,00-19,12,0.059
+E. coli,Age group,20-39,1,0.24
+E. coli,Age group,20-39,2,0.25
+E. coli,Age group,20-39,3,0.23
+E. coli,Age group,20-39,4,0.24
+E. coli,Age group,20-39,5,0.23
+E. coli,Age group,20-39,6,0.24
+E. coli,Age group,20-39,7,0.25
+E. coli,Age group,20-39,8,0.24
+E. coli,Age group,20-39,9,0.25
+E. coli,Age group,20-39,10,0.23
+E. coli,Age group,20-39,11,0.23
+E. coli,Age group,20-39,12,0.23
+E. coli,Age group,40-64,1,0.32
+E. coli,Age group,40-64,2,0.32
+E. coli,Age group,40-64,3,0.32
+E. coli,Age group,40-64,4,0.31
+E. coli,Age group,40-64,5,0.33
+E. coli,Age group,40-64,6,0.32
+E. coli,Age group,40-64,7,0.32
+E. coli,Age group,40-64,8,0.32
+E. coli,Age group,40-64,9,0.32
+E. coli,Age group,40-64,10,0.32
+E. coli,Age group,40-64,11,0.31
+E. coli,Age group,40-64,12,0.32
+E. coli,Age group,65+,1,0.37
+E. coli,Age group,65+,2,0.37
+E. coli,Age group,65+,3,0.38
+E. coli,Age group,65+,4,0.38
+E. coli,Age group,65+,5,0.39
+E. coli,Age group,65+,6,0.38
+E. coli,Age group,65+,7,0.38
+E. coli,Age group,65+,8,0.38
+E. coli,Age group,65+,9,0.38
+E. coli,Age group,65+,10,0.39
+E. coli,Age group,65+,11,0.39
+E. coli,Age group,65+,12,0.39
+E. coli,Sex,F,1,0.84
+E. coli,Sex,F,2,0.84
+E. coli,Sex,F,3,0.84
+E. coli,Sex,F,4,0.85
+E. coli,Sex,F,5,0.84
+E. coli,Sex,F,6,0.84
+E. coli,Sex,F,7,0.84
+E. coli,Sex,F,8,0.85
+E. coli,Sex,F,9,0.85
+E. coli,Sex,F,10,0.84
+E. coli,Sex,F,11,0.84
+E. coli,Sex,F,12,0.84
+E. coli,Sex,M,1,0.16
+E. coli,Sex,M,2,0.16
+E. coli,Sex,M,3,0.16
+E. coli,Sex,M,4,0.15
+E. coli,Sex,M,5,0.16
+E. coli,Sex,M,6,0.16
+E. coli,Sex,M,7,0.16
+E. coli,Sex,M,8,0.15
+E. coli,Sex,M,9,0.15
+E. coli,Sex,M,10,0.16
+E. coli,Sex,M,11,0.16
+E. coli,Sex,M,12,0.16
+E. coli,Site of infection,AB,1,0.015
+E. coli,Site of infection,AB,2,0.016
+E. coli,Site of infection,AB,3,0.016
+E. coli,Site of infection,AB,4,0.017
+E. coli,Site of infection,AB,5,0.015
+E. coli,Site of infection,AB,6,0.015
+E. coli,Site of infection,AB,7,0.015
+E. coli,Site of infection,AB,8,0.014
+E. coli,Site of infection,AB,9,0.015
+E. coli,Site of infection,AB,10,0.014
+E. coli,Site of infection,AB,11,0.016
+E. coli,Site of infection,AB,12,0.015
+E. coli,Site of infection,BL,1,0.019
+E. coli,Site of infection,BL,2,0.02
+E. coli,Site of infection,BL,3,0.021
+E. coli,Site of infection,BL,4,0.019
+E. coli,Site of infection,BL,5,0.021
+E. coli,Site of infection,BL,6,0.019
+E. coli,Site of infection,BL,7,0.021
+E. coli,Site of infection,BL,8,0.02
+E. coli,Site of infection,BL,9,0.02
+E. coli,Site of infection,BL,10,0.02
+E. coli,Site of infection,BL,11,0.021
+E. coli,Site of infection,BL,12,0.021
+E. coli,Site of infection,RT,1,0.02
+E. coli,Site of infection,RT,2,0.021
+E. coli,Site of infection,RT,3,0.021
+E. coli,Site of infection,RT,4,0.02
+E. coli,Site of infection,RT,5,0.02
+E. coli,Site of infection,RT,6,0.02
+E. coli,Site of infection,RT,7,0.019
+E. coli,Site of infection,RT,8,0.02
+E. coli,Site of infection,RT,9,0.017
+E. coli,Site of infection,RT,10,0.021
+E. coli,Site of infection,RT,11,0.02
+E. coli,Site of infection,RT,12,0.023
+E. coli,Site of infection,SST,1,0.027
+E. coli,Site of infection,SST,2,0.023
+E. coli,Site of infection,SST,3,0.025
+E. coli,Site of infection,SST,4,0.025
+E. coli,Site of infection,SST,5,0.026
+E. coli,Site of infection,SST,6,0.024
+E. coli,Site of infection,SST,7,0.026
+E. coli,Site of infection,SST,8,0.027
+E. coli,Site of infection,SST,9,0.026
+E. coli,Site of infection,SST,10,0.025
+E. coli,Site of infection,SST,11,0.025
+E. coli,Site of infection,SST,12,0.024
+E. coli,Site of infection,UT,1,0.92
+E. coli,Site of infection,UT,2,0.92
+E. coli,Site of infection,UT,3,0.92
+E. coli,Site of infection,UT,4,0.92
+E. coli,Site of infection,UT,5,0.92
+E. coli,Site of infection,UT,6,0.92
+E. coli,Site of infection,UT,7,0.92
+E. coli,Site of infection,UT,8,0.92
+E. coli,Site of infection,UT,9,0.92
+E. coli,Site of infection,UT,10,0.92
+E. coli,Site of infection,UT,11,0.92
+E. coli,Site of infection,UT,12,0.92

@@ -1,0 +1,19 @@
+organism,drug_code,type,omega,amplitude_ci.lower,amplitude_ci.upper,amplitude_estimate,amplitude_p.value.BH,phase_ci.lower,phase_ci.upper,phase_estimate,phase_p.value.BH
+E. coli,AMP,Actual mean MIC seasonal deviate,0.24,0.015,0.044,0.03,3.4e-4,16,20,18,8.099999999999999e-57
+E. coli,AMP,Predicted mean MIC seasonal deviate,0.24,4.1e-4,0.0032,0.0018,0.017,21,27,24,0.23
+E. coli,CIP,Actual mean MIC seasonal deviate,0.12,0.042,0.064,0.053,2.8e-11,11,14,12,3.6e-41
+E. coli,CIP,Predicted mean MIC seasonal deviate,0.12,-0.0036,0.0049,6.5e-4,0.77,-49,60,5.4,0.85
+E. coli,NIT,Actual mean MIC seasonal deviate,0.12,0.021,0.033,0.027,7.4e-11,7.3,11,9.2,2.3e-12
+E. coli,NIT,Predicted mean MIC seasonal deviate,0.12,-1.8e-4,4.6e-4,1.4e-4,0.42,10,49,29,0.82
+K. pneumoniae,CIP,Actual mean MIC seasonal deviate,0.12,0.033,0.078,0.056,2.9e-5,5.2,12,8.5,1.6e-5
+K. pneumoniae,CIP,Predicted mean MIC seasonal deviate,0.12,0.003,0.013,0.0079,0.0038,3.6,14,8.7,0.0025
+K. pneumoniae,NIT,Actual mean MIC seasonal deviate,0.12,0.0078,0.057,0.033,0.015,45,58,51,0.85
+K. pneumoniae,NIT,Predicted mean MIC seasonal deviate,0.12,0.0025,0.0076,0.0051,4.6e-4,5.1,13,9.2,1.2e-4
+S. aureus,CIP,Actual mean MIC seasonal deviate,0.12,0.046,0.087,0.067,2.3e-7,4.1,9.2,6.6,1.4e-5
+S. aureus,CIP,Predicted mean MIC seasonal deviate,0.12,0.034,0.052,0.043,6.1e-11,7,11,8.8,3e-12
+S. aureus,ERY,Actual mean MIC seasonal deviate,0.12,0.021,0.087,0.054,0.0035,-0.2,9.9,4.9,0.091
+S. aureus,ERY,Predicted mean MIC seasonal deviate,0.12,0.012,0.023,0.017,2.3e-7,6.3,11,8.8,3.9e-8
+S. aureus,NIT,Actual mean MIC seasonal deviate,0.12,0.018,0.044,0.031,3.5e-5,3.3,10,6.7,5.4e-4
+S. aureus,NIT,Predicted mean MIC seasonal deviate,0.12,0.0042,0.0073,0.0057,1.8e-8,33,37,35,1.1999999999999997e-140
+S. aureus,OXA,Actual mean MIC seasonal deviate,0.12,0.01,0.058,0.034,0.0087,-3.1,8.4,2.7,0.44
+S. aureus,OXA,Predicted mean MIC seasonal deviate,0.12,0.0067,0.015,0.011,1.6e-5,6.7,13,9.9,4.9e-7
